@@ -1,0 +1,5 @@
+# DPP Timer AI - required packages (all free / open-source)
+customtkinter>=5.2.0
+Pillow>=10.0.0
+PyMuPDF>=1.23.0
+matplotlib>=3.7.0
